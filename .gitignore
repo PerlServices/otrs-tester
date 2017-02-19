@@ -1,0 +1,6 @@
+*~
+docker-otrs/otrs/backup
+docker-otrs/config/
+docker-otrs/volumes/
+.DS_Store
+
